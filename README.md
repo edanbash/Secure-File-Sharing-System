@@ -11,4 +11,5 @@ It allows the user to take the following actions:
 7. Revoke access to previously shared files.
 
 Implementation in `client/client.go`, and tests in `client_test/client_test.go`.
+
 To run tests, use `go test -v` inside of the `client_test` directory.
